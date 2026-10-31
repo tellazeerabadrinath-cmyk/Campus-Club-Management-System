@@ -44,13 +44,6 @@ Each role features a custom color system matching the reference design:
 
 ## ⚡ Default Demo Credentials
 
-| Role | Email / Username | Password | Notes |
-|---|---|---|---|
-| **Admin** | `admin@campus.edu` | `admin123` | Full access to clubs, students, reports, and notices |
-| **Student** | `mokshagna@student.campus.edu` | `student123` | Logged-in student from Screen 5 (Roll No: `23CS010`) |
-| **Coordinator** | `coordinator@campus.edu` | `coord123` | Coordinator for Coding Club & Events |
-
-> 💡 **Tip**: The login page includes a **"Quick 1-Click Demo Logins"** bar for instant autofill!
 
 ---
 
